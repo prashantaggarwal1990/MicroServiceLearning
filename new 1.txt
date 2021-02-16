@@ -7,3 +7,4 @@ ElseIf S.C("MASK_SHIPPER...").ToUpper() = "FALSE", "F", "0", or "N", THEN send N
 Else - Defer to Shipper Config Default.
 
 Else - Defer to Shipper Config Default
+Test
